@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Duane!
 
-<!--
-**duaneryannmontes/duaneryannmontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Systems Student | 📊 Data & Tech Enthusiast | 💻 Future IT Professional
 
-Here are some ideas to get you started:
+# About Me
+🎓 Studying Information Systems
+🔍 Interested in Data Analytics and Business Systems
+🎯 Goal: Become a professional in IT systems and data-driven decision-making(sana)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Tools
+💻 Programming: Java, Python, HTML, CSS
+📊 Data Tools: Excel, Weka (Machine Learning)
+🗄️ Database: MySQL (Basic)
+🔧 Tools: Git, GitHub, jGRASP
+
+📂 Projects
+
+🔹 Crop Yield Prediction System
+Built a regression model to analyze supply, demand, and pricing
+
+📫 Connect With Me
+📧 Email: duaenryann9@gmail.com
